@@ -1,10 +1,10 @@
 const { Sequelize } = require("sequelize");
 
 //Aqui se tendra que cambiar a la BD del HOST
-const db = new Sequelize("GOSADB", "root", "root", {
-  host: "localhost",
+const db = new Sequelize(process.env.DBNAME, process.env.USERNAME, process.env.PASSWORD, {
+  host: process.env.HOST,
   dialect: "mysql",
-  // port: "3306",
+  port: "25060",
 });
 
 
