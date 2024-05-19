@@ -10,7 +10,7 @@
       "username": "gosa",
       "password": "Gosa1234_",
       "database": "gosadb",
-      "host": "databases-auth.000webhost.com",
+      "host": "localhost",
       "dialect": "mysql"
     }
   }
