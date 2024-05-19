@@ -10,7 +10,7 @@
         "username": "id20770471_gosa",
         "password": "Gosa1234_",
         "database": "id20770471_gosadb",
-        "host": "databases-auth.000webhost.com",
+        "host": "panel.000webhost.com",
         "dialect": "mysql"
         }
   }
