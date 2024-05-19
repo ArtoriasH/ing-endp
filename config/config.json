@@ -6,11 +6,11 @@
       "host": "databases-auth.000webhost.com",
       "dialect": "mysql"
     },
-    "production": {
-      "username": "id20770471_gosa",
-      "password": "Gosa1234_",
-      "database": "id20770471_gosadb",
-      "host": "https://databases-auth.000webhost.com",
-      "dialect": "mysql"
-    }
+        "production": {
+        "username": "id20770471_gosa",
+        "password": "Gosa1234_",
+        "database": "id20770471_gosadb",
+        "host": "databases-auth.000webhost.com",
+        "dialect": "mysql"
+        }
   }
