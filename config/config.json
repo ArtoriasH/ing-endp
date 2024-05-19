@@ -7,10 +7,10 @@
       "dialect": "mysql"
     },
     "production": {
-      "username": "gosa",
+      "username": "id20770471_gosa",
       "password": "Gosa1234_",
-      "database": "gosadb",
-      "host": "localhost",
+      "database": "id20770471_gosadb",
+      "host": "databases-auth.000webhost.com",
       "dialect": "mysql"
     }
   }
