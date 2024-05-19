@@ -3,14 +3,14 @@
       "username": "gosa",
       "password": "Gosa1234_",
       "database": "gosadb",
-      "host": "your_host",
+      "host": "databases-auth.000webhost.com",
       "dialect": "mysql"
     },
     "production": {
       "username": "gosa",
       "password": "Gosa1234_",
       "database": "gosadb",
-      "host": "your_host",
+      "host": "databases-auth.000webhost.com",
       "dialect": "mysql"
     }
   }
