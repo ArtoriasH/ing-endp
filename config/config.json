@@ -1,0 +1,16 @@
+{
+    "development": {
+      "username": "gosa",
+      "password": "Gosa1234_",
+      "database": "gosadb",
+      "host": "your_host",
+      "dialect": "mysql"
+    },
+    "production": {
+      "username": "gosa",
+      "password": "Gosa1234_",
+      "database": "gosadb",
+      "host": "your_host",
+      "dialect": "mysql"
+    }
+  }
